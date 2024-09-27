@@ -1,0 +1,1 @@
+export const SELECT_ID = 'select' as const
